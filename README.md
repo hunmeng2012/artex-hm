@@ -487,3 +487,5 @@ flowchart TB
 <!-- docs: updated 2026-11-20 -->
 
 <!-- docs: updated 2026-11-21 -->
+
+<!-- docs: updated 2026-11-22 -->
